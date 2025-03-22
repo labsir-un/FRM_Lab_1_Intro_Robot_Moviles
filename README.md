@@ -23,9 +23,14 @@
 <details>
     <summary> 🗂️ Tabla de contenido</summary>
 
-- [Guía 1 Conociendo los robots kuboki y Lego Mindstorms EV3](#guía-1-conociendo-los-robots-kuboki-y-lego-mindstorms-ev3)
-  - [Kuboki](#kuboki)
-  - [Lego EV3](#lego-ev3)
+- [1. 🕵🏼🤖🚗 Guía 1 Conociendo los robots kuboki y Lego Mindstorms EV3](#1--guía-1-conociendo-los-robots-kuboki-y-lego-mindstorms-ev3)
+  - [1.1. 📖 Introducción](#11--introducción)
+  - [1.2. 🎯 Objetivos](#12--objetivos)
+  - [1.3. 🧰 Herramientas necesarias](#13--herramientas-necesarias)
+    - [1.3.1. 🔭🛠️ Equipos](#131-️-equipos)
+    - [1.3.2. 🖥️💾 Software](#132-️-software)
+    - [1.3.3. 🔧➡️🚀 Procedimiento](#133-️-procedimiento)
+
 </details>
 
 ---
@@ -65,21 +70,21 @@ fomenta la creatividad, el pensamiento crítico y el desarrollo de habilidades.
 - Creando un programa simple para controlar los movimientos del robot.
 
 
-## 1.3. Herramientas necesarias
+## 1.3. 🧰 Herramientas necesarias
 
-### 1.3.1. Equipos
+### 1.3.1. 🔭🛠️ Equipos
 
 - Robot Lego EV3
 - Robot kuboki
 - Computador
 
-### 1.3.2. Software
+### 1.3.2. 🖥️💾 Software
 
 - Ubuntun 20.04
 - ROS noetic
 
 
-### 1.3.3. Procedimiento 
+### 1.3.3. 🔧➡️🚀 Procedimiento 
 
 1. ¿Qué es un robot móvil? Definir qué es un robot y cuáles son sus principales características.
 
