@@ -1,5 +1,9 @@
 <div id="banner" align="center">
-<img src="https://imgur.com/Eu2u9F4.png" alt="Escudo Universidad Nacional">
+<picture>
+    <source srcset="https://imgur.com/5bYAzsb.png" media="(prefers-color-scheme: dark)">
+    <source srcset="https://imgur.com/G7lXiZY.png" media="(prefers-color-scheme: light)">
+    <img src="https://imgur.com/G7lXiZY.png" alt="Escudo UNAL" width="300px">
+</picture>>
 
 <h3>Curso de Fundamentos de Robótica Móvil</h3>
 
@@ -21,18 +25,18 @@
 <details>
     <summary>🗂️ Tabla de Contenido</summary>
 
-- [1. 🕵🏼🤖🚗 Guía 1: Conociendo los Robots Kuboki y Lego Mindstorms EV3](#1--guía-1-conociendo-los-robots-kuboki-y-lego-mindstorms-ev3)
-  - [1.1. 📖 Introducción](#11--introducción)
-  - [1.2. 🎯 Objetivos](#12--objetivos)
-  - [1.3. 🧰 Herramientas Necesarias](#13--herramientas-necesarias)
-    - [1.3.1. 🔭🛠️ Equipos](#131-️-equipos)
-    - [1.3.2. 🖥️💾 Software](#132-️-software)
-    - [1.3.3. 🔧➡️🚀 Procedimiento](#133-️-procedimiento)
+<!-- TOC -->
+- [1.1. 📖 Introducción](#11--introducción)
+- [1.2. 🎯 Objetivos](#12--objetivos)
+- [1.3. 🧰 Herramientas Necesarias](#13--herramientas-necesarias)
+  - [1.3.1. 🔭🛠️ Equipos](#131-️-equipos)
+  - [1.3.2. 🖥️💾 Software](#132-️-software)
+- [1.4. 🔧➡️🚀 Procedimiento](#14-️-procedimiento)
 </details>
 
 ---
 
-# 1. 🕵🏼🤖🚗 Guía 1: Conociendo los Robots Kuboki y Lego Mindstorms EV3 
+<h1> 🕵🏼🤖🚗 Guía 1: Conociendo los Robots Kuboki y Lego Mindstorms EV3 </h1>
 
 ## 1.1. 📖 Introducción
 
@@ -63,7 +67,7 @@ El robot Kuboki se distingue por su capacidad de navegación autónoma, permiti�
 - Ubuntu 20.04
 - ROS Noetic
 
-### 1.3.3. 🔧➡️🚀 Procedimiento 
+## 1.4. 🔧➡️🚀 Procedimiento 
 
 1. **¿Qué es un robot móvil?** Definir qué es un robot y cuáles son sus principales características.
 2. **Presentación de los Robots:** Descripción detallada de los robots Kuboki y EV3, incluyendo sus características físicas y capacidades.
