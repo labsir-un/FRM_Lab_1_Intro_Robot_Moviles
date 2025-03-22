@@ -108,6 +108,6 @@ con el entorno.
 dizajes y posibles mejoras en el uso del robot Kuboki en aplicaciones prácticas.
 
 
->[NOTE]
+>[!NOTE]
 >Recuerda documentar detalladamente cada paso realizado durante el proceso de aprendizaje y
 programación. ¡Diviértete explorando y experimentando con los robots Kuboki y EV3 en el laboratorio
