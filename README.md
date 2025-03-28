@@ -1,4 +1,4 @@
-<div id="banner" align="center">
+<div align="center">
 <picture>
     <source srcset="https://imgur.com/5bYAzsb.png" media="(prefers-color-scheme: dark)">
     <source srcset="https://imgur.com/Os03JoE.png" media="(prefers-color-scheme: light)">
