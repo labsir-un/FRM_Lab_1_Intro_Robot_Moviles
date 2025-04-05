@@ -104,13 +104,24 @@ El robot Kuboki se distingue por su capacidad de navegación autónoma, permiti�
 
 ## 5. 📚🔗 Recursos
 
+<details>
+  <summary>🐢🤖 kobuki</summary>
+
 - [kobuki_core](https://github.com/kobuki-base/kobuki_core)
 - [Guía 1 - Kobuki: C++ API (Doxygen)](./Kobuki/API_kuboki.md)
 - [Robots ros Kobuki](https://robots.ros.org/kobuki/)
 - [Wiki kobuki](https://kobuki.readthedocs.io/en/devel/about.html)
+</details>
+
+<details>
+  <summary>🧱🤖 Lego EV3 </summary>
+
 - [Manual Lego EV3](./Lego_Ev3/EV3_user_guide_esmx.pdf)
 - [Lego Mindstorms Ev3](https://www.lego.com/es-es/themes/mindstorms/downloads)
 - [Proyecto LeJos](https://sourceforge.net/projects/lejos/)
 - [Proyecto ev3dev](https://www.ev3dev.org/)
 - [ROS Robot With Lego EV3 and Docker](https://www.instructables.com/ROS-Robot-With-Lego-EV3-and-Docker/)
 - [All the benefits of LEGO® Education solutions](https://education.lego.com/en-us/product-resources/3rd-party-support/3rd-party-support/mindstorms-education-ev3/)
+</details>
+
+
