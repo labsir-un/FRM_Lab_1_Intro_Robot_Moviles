@@ -122,6 +122,8 @@ El robot Kuboki se distingue por su capacidad de navegación autónoma, permiti�
 - [Proyecto ev3dev](https://www.ev3dev.org/)
 - [ROS Robot With Lego EV3 and Docker](https://www.instructables.com/ROS-Robot-With-Lego-EV3-and-Docker/)
 - [All the benefits of LEGO® Education solutions](https://education.lego.com/en-us/product-resources/3rd-party-support/3rd-party-support/mindstorms-education-ev3/)
+- [EV-R3P](https://github.com/albmardom/EV-R3P/tree/master)
 </details>
+
 
 
