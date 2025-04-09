@@ -122,13 +122,16 @@ deactivate
 ```sh
 # Activar el entorno virtual
 source ./venv.bash
-
+```
+```sh
 # Compilar todo el proyecto
 colcon build --merge-install --cmake-args -DBUILD_TESTING=OFF
-
+```
+```sh
 # Actualizar los repositorios en src/
 vcs pull ./src
-
+```
+```sh
 # Desactivar el entorno virtual
 deactivate
 ```
@@ -138,13 +141,16 @@ Otras opciones de compilación
 ```sh
 # Compilar sin advertencias por variables no utilizadas
 colcon build --merge-install --cmake-args -DBUILD_TESTING=OFF --no-warn-unused-cli
-
+```
+```sh
 # Compilar un solo paquete. Ej: "kobuki_core"
 colcon build --merge-install --packages-select kobuki_core --cmake-args -DBUILD_TESTING=OFF
-
+```
+```sh
 # Compilar todo con salida detallada. Activa la salida detallada (VERBOSE=1) para depurar posibles errores
 VERBOSE=1 colcon build --merge-install --event-handlers console_direct+ --cmake-args -DBUILD_TESTING=OFF
-
+```
+```sh
 # Compilar en modo "Release" con símbolos de depuración
 colcon build --merge-install --cmake-args -DBUILD_TESTING=OFF -DCMAKE_BUILD_TYPE=RelWithDebInfo
 ```
@@ -205,7 +211,7 @@ source ./install/setup.bash
 
 3. Ejecuta `kobuki-simple-keyop` para operar el kuboki con el teclado.
 
->[Note]
+>[!Note]
 > Todos los comandos disponibles se encuentran en el directorio `~/kobuki/install/bin`
 
 ### 4.4. ▶️🖥️ Ejecutar demos disponilbes con la API
