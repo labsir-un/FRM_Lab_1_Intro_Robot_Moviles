@@ -251,7 +251,7 @@ cd ~/kobuki/build/kobuki_core/src/demos
 2. Cree una rutina en la cual sensor de caída de rueda cuando se active cambie un led a rojo, al activarse los Bumpers cambie el led a naranja y cuando ningun sensor este activo el led sea de color verde.
 3. En la rutina *"demo_simple_loop"* implemente un controlador el cual corrija el seguimiento del cuadrado propuesto.
 
-*Extra:* Use *"Docking Station"* para una rutina propia.
+*Extra:* Use el *"Docking Station"* para crear una rutina propia.
 
 ## 6. 📚🗄️ Referencias
 
