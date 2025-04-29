@@ -34,7 +34,7 @@
 - [4. 🔧➡️🚀 Procedimiento](#4-️-procedimiento)
   - [4.1. 🔍📚 Estado del arte](#41--estado-del-arte)
   - [4.2. 🖥️🎮 Simulación](#42-️-simulación)
-  - [4.3. 🧑‍🔬🤖🔍 Práctica](#43--práctica)
+  - [4.3. 🧑‍🔬🤖🔍 Práctica con los robots reales](#43--práctica-con-los-robots-reales)
   - [4.4. 💬🤝 Comparte tus resultados](#44--comparte-tus-resultados)
 - [5. 📚🔗 Recursos](#5--recursos)
 </details>
@@ -90,7 +90,7 @@ El robot Kuboki se distingue por su capacidad de navegación autónoma, permiti�
 
 - **Modelado del robot real:** Realizar el modelado del robot Kuboki y EV3 en CoppeliaSim.
 
-### 4.3. 🧑‍🔬🤖🔍 Práctica
+### 4.3. 🧑‍🔬🤖🔍 Práctica con los robots reales
 
 - **Estado actual del robot:** Revisión de la estructura, sensores y sistema de control.
 
