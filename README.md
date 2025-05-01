@@ -92,6 +92,9 @@ El robot Kuboki se distingue por su capacidad de navegación autónoma, permiti�
 
 ### 4.3. 🧑‍🔬🤖🔍 Práctica con los robots reales
 
+>[!NOTE]
+>El procedimiento a continuación se debe hacer con el robot kuboki y el LegoEV3.
+
 - **Estado actual del robot:** Revisión de la estructura, sensores y sistema de control.
 
 - **Práctica con sensores:** Identificación y uso de los sensores integrados en los robots, explicando su interacción con el entorno.
