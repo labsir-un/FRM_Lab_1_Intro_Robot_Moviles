@@ -90,10 +90,13 @@ El robot Kuboki se distingue por su capacidad de navegación autónoma, permiti�
 
 - **Modelado del robot real:** Realizar el modelado del robot Kuboki y EV3 en CoppeliaSim.
 
+>[!IMPORTANT]
+>No es necesario más si deseable que se presente una simulación con los robots puede ser ejecutando la rutina de movimiento creada para la siguiente sección.
+
 ### 4.3. 🧑‍🔬🤖🔍 Práctica con los robots reales
 
 >[!NOTE]
->El procedimiento a continuación se debe hacer con el robot kuboki y el LegoEV3.
+>El procedimiento a continuación se debe hacer con el robot kuboki y el LegoEV3. Además no se busca programar directamente el robot con APIs o software propio por lo cual no se puede usar ROS para el desarrollo de este laboratorio.
 
 - **Estado actual del robot:** Revisión de la estructura, sensores y sistema de control.
 
